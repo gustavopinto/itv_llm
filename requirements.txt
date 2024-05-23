@@ -1,0 +1,13 @@
+gradio==4.31.3
+langchain==0.1.20
+pgvector==0.2.5 
+psycopg2==2.9.9
+python-dotenv==1.0.1
+uvicorn==0.29.0
+langchain-text-splitters==0.0.2
+huggingface_hub==0.23.1
+transformers==4.41.1
+sentence_transformers==2.7.0
+pypdf==4.2.0
+unstructured==0.14.2
+llama-cpp-python==0.2.75
